@@ -1,68 +1,51 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Frontend Mentor - Beta sign up split layout
 
-## Available Scripts
+![Header/intro section for the Beta sign up split layout](./design/desktop-preview.jpg)
 
-In the project directory, you can run:
+## Welcome! 👋
 
-### `npm start`
+Thanks for checking out this front-end coding challenge. 
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+[Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+**To do these challenges, you need a basic understanding of HTML, CSS and (sometimes) JavaScript.**
 
-### `npm test`
+## Where to find everything
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design to work to. 
 
-### `npm run build`
+The designs are in JPG static format. The reason for this, as opposed to including Sketch (or other similar design software) files, is to help train your eye when developing. This will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. This should help when you're working on real projects, but do have access to full design files.
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+You will find all the required assets in the `/images` folder. The assets are already optimized.
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+There is also a `style-guide.md` file, which contains the information you'll need, such as color palette and fonts.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Building your project
 
-### `npm run eject`
+Practice using version control by creating your own Github repository for this challenge. This has the added benefit of being able to publish it on the `gh-pages` branch at the end. Find out more about Github Pages here: [https://pages.github.com/](https://pages.github.com/).
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Also, you could try building this project in a team. This is a great way to practice collaborative coding.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Suggested workflow
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+1) Initialize your project as a public repository on [Github](https://github.com/). This will make it easier to share your code with the community if you need some help. If you're not sure how to do this, have a read through of this [Try Git](https://try.github.io/) resource.
+2) Look through the designs to start planning out how you'll tackle the project. This step is crucial to help you think ahead for CSS classes that you could create to make reusable styles.
+3) Before adding any styles, structure your content with HTML. Writing your HTML first can help focus your attention on creating well-structured content.
+4) Write out the base styles for your project, including general content styles, such as `font-family` and `font-size`.
+5) Start adding styles to the top of the page and work down. Only move on to the next section once you're happy you've completed the area you're working on.
 
-## Learn More
+## Sharing your solution
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+We can all learn from each other's solution, so everyone would love to see your code. There is a Slack community, which you can sign up to on the Frontend Mentor website. Post the link to your repository there and get feedback from the community.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+If you decide to push the project live, tweet [@frontendmentor](https://twitter.com/frontendmentor). Mention **@frontendmentor** and include the URL in the tweet. We'd love to take a look at what you've built and help share it around.
 
-### Code Splitting
+## Giving feedback
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+Feedback is always welcome, so if you have any on this challenge please email me at matt[at]frontendmentor[dot]io.
 
-### Analyzing the Bundle Size
+This challenge is completely free. Please share it with anyone who will find it useful to practice on.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+**Have fun building!** 🚀
