@@ -1,0 +1,29 @@
+body {
+    max-width: 1440px;
+    overflow-x: hidden;
+}
+
+.type1 {
+
+}
+
+.type2 {
+
+}
+
+.type3 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    color: hsl(243, 87%, 12%);
+}
+
+.button-type1 {
+    background: hsl(163, 95%, 43%);
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    border: none;
+    margin: 0 1em;
+    padding: 1em 3em;
+    border-radius: 5px;
+}
+

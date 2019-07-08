@@ -1,0 +1,47 @@
+body {
+
+}
+
+.landing-leftside {
+    max-width: 600px;
+    height: auto;
+    background: url(../images/bg-intro.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-landing {
+    max-width: 600px;
+    margin: 5em auto;
+}
+
+.h1-landing-message {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    color: hsl(243, 87%, 12%);
+    margin: 1em 0;
+}
+
+.img-hero {
+    text-align: center;
+    max-width: 400px;
+}
+
+.input-form {
+    width: 16em;
+    padding: 0 1em;
+    height: 56px;
+    -webkit-box-shadow: 5px 5px 20px -9px rgba(0,0,0,0.75);
+    -moz-box-shadow: 5px 5px 20px -9px rgba(0,0,0,0.75);
+    box-shadow: 5px 5px 20px -9px rgba(0,0,0,0.75);
+    border: none;
+    border-radius: 5px;
+}
+
+.p-landing-message {
+    font-family: 'Raleway', sans-serif;
+    color: hsl(243, 86%, 85%);
+}
